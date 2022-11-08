@@ -1,6 +1,6 @@
 # Quiz Interativo - Perguntas e Respostas
 
-🏆 <b>Objetivo do jogo:</b> Responder as perguntas propostas no decorrer do Quiz Interativo. 
+🏆 <b>Objetivo do jogo:</b> Responder as perguntas propostas ao decorrer do Quiz Interativo. 
 <br>
 A medida que o jogador acertar uma questão, sua pontuação irá aumentar. Caso erre alguma pergunta, perderá ponto.  
 <br>
