@@ -9,7 +9,7 @@ A medida que o jogador acertar uma questão, sua pontuação irá aumentar. Caso
 
 ℹ️ <b>Informações sobre o quiz</b>
 
-🇧🇷 <b>Tema do jogo:</b> Política Brasileira 
+🇧🇷 <b>Tema do jogo:</b> Política Brasileira e Atualidades 
 
 ❓ <b>Quantidade de questões:</b> 10
 
