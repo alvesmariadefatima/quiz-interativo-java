@@ -10,7 +10,6 @@ public class JogoQuiz {
         
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        //System.out.println("Ao terminar de preencher os dados, seu jogo iniciará automaticamente...");
         System.out.println("Digite seu nome completo: ");
         String nomeJogador = scan.nextLine();
         System.out.println("Digite seu e-mail: ");
