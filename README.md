@@ -15,7 +15,7 @@ A medida que o jogador acertar uma questão, sua pontuação irá aumentar. Caso
 
 ☕ <b>Linguagem de programação utilizada:</b> Java 
 
-🖥️ <b>IDE utilizada para implementação do código:</b> Netbeans
+🖥️ <b>IDE utilizada para implementação do código:</b> Netbeans e VSCode
 
 📝 <b>Diagrama de classes do projeto</b>
 <img src="DiagramaClassesJogoQuiz.PNG">
