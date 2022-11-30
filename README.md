@@ -17,6 +17,9 @@ A medida que o jogador acertar uma questão, sua pontuação irá aumentar. Caso
 
 🖥️ <b>IDE utilizada para implementação do código:</b> Netbeans
 
+📝 <b>Diagrama de classes do projeto</b>
+<img src="DiagramaClassesJogoQuiz.PNG">
+
 👥 <b>Integrantes da equipe</b>
 <br>
 <li>Maria de Fátima</li>
