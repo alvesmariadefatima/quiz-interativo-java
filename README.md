@@ -26,5 +26,6 @@ A medida que o jogador acertar uma questão, sua pontuação irá aumentar. Caso
 <li>Anderson</li>
 <li>João Pedro Moura</li>
 <li>Renan Pedrosa</li>
+<li>Ana Laura</li>
 <hr>
 <p align="center">2022 - Projeto de Programação</p>
